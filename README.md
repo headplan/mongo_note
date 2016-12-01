@@ -1,3 +1,6 @@
-# My Awesome Book
+# 关于
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+暂时使用Vagrant中的MongoDB作为演示,安装方式同.
+
+
+
